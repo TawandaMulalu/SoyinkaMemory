@@ -8,8 +8,8 @@
   "project": {
     "github_org": "TawandaMulalu",
     "is_private": false,
-    "title": " Wole Soyinka, 'The Man Died' and The Aural Performance of Memory",
-    "description": "I’m interested in tracking the differences—between the written and the spoken word—in how Wole Soyinka narrates his memories of being imprisoned during the Biafran War in 1966.\n\n\nWhat particular affordances does the aural experience of this narrative present to the listener that the written experience cannot?\n\n\nWhat are the stakes of narration where ‘nation language’ can be heard explicitly versus implicitly, and how does this impact audience reception, or who Soyinka’s imagined audience might be?\n\n\nWhat to make of Soyinka’s calm, considered retelling of his story (decades later) in the spoken versus written word: affective privacy or sublimated trauma or…?\n",
+    "title": " Wole Soyinka, 'The Man Died' and the Aural Performance of Memory",
+    "description": "I’m interested in tracking the differences—between the written and the spoken word—in how Wole Soyinka narrates his memories of being imprisoned during the Biafran War in 1966. //\n\n\nWhat particular affordances does the aural experience of this narrative present to the listener that the written experience cannot? //\n\n\nWhat are the stakes of narration where ‘nation language’ can be heard explicitly versus implicitly, and how does this impact audience reception, or who Soyinka’s imagined audience might be? //\n\n\nWhat to make of Soyinka’s calm, considered retelling of his story (decades later) in the spoken versus written word: affective privacy or sublimated trauma or…? //\n",
     "language": "en",
     "slug": "SoyinkaMemory",
     "creator": "TawandaMulalu",
@@ -22,6 +22,8 @@
       "tags": []
     },
     "created_at": "2025-04-02T21:53:32.759Z",
-    "updated_at": "2025-04-02T21:53:32.759Z"
-  }
+    "updated_at": "2025-04-02T21:55:39.407Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
