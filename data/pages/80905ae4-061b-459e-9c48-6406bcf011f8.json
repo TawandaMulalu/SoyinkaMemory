@@ -35,11 +35,11 @@
   "created_by": "TawandaMulalu",
   "title": "Wole Soyinka Returns to Biafra, Pt 1. (BBC Documentary Podcast, 2007)",
   "slug": "wole-soyinka-returns-to-biafra-pt-1-bbc-do",
-  "updated_at": "2025-04-23T12:10:02.135Z",
+  "updated_at": "2025-04-23T12:12:40.769Z",
   "updated_by": "TawandaMulalu",
   "parent": "b98eadc4-4ed2-42c4-94f6-643b31cdb876",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "70bfb966-e5c6-4876-9b6e-14de96c409a7"
   }
