@@ -29,7 +29,181 @@
     },
     "created_at": "2025-04-02T21:53:32.759Z",
     "updated_at": "2025-04-23T11:17:38.251Z",
-    "generate_pages_site": false
+    "generate_pages_site": true
   },
-  "is_private": false
+  "is_private": false,
+  "annotations": {
+    "17151f09-be17-4dd3-95eb-4b6a91819b7c": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "70bfb966-e5c6-4876-9b6e-14de96c409a7",
+      "source_id": "113f9c54-80e0-47ba-baf8-4954c4957c0a"
+    },
+    "5dd01f13-46f2-40b0-b41f-1564b3b93b5a": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "0cac572f-64f3-4016-8121-f16554d8bddb",
+      "source_id": "d6439b33-5b60-4b2b-9b6c-38085af76d61"
+    },
+    "d1be62f3-0eeb-4a03-bc97-cd356ff4b187": {
+      "annotations": [],
+      "set": "Default",
+      "event_id": "0d3b8fbe-e5fc-4455-be26-a37452675aed",
+      "source_id": "a8b55d14-735d-41df-9035-25792ed1161a"
+    }
+  },
+  "events": {
+    "0cac572f-64f3-4016-8121-f16554d8bddb": {
+      "audiovisual_files": {
+        "d6439b33-5b60-4b2b-9b6c-38085af76d61": {
+          "label": "BBC Part 2",
+          "is_offline": false,
+          "file_url": "https://ia601808.us.archive.org/0/items/documentaries-2007-podcast-20071031-wole-soyinka-returns-to-biafra-part-two/Documentaries2007Podcast-20071031-WoleSoyinkaReturnsToBiafraPartTwo.mp3",
+          "duration": 1364,
+          "caption_set": []
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "citation": "",
+      "item_type": "Audio",
+      "label": "Wole Soyinka Returns to Biafra, Pt 2. (BBC Documentary Podcast, 2007)",
+      "created_at": "2025-04-23T11:06:08.547Z",
+      "created_by": "TawandaMulalu",
+      "updated_at": "2025-04-23T11:06:08.547Z",
+      "updated_by": "TawandaMulalu"
+    },
+    "0d3b8fbe-e5fc-4455-be26-a37452675aed": {
+      "audiovisual_files": {
+        "a8b55d14-735d-41df-9035-25792ed1161a": {
+          "label": "CNN Audio ",
+          "is_offline": false,
+          "file_url": "https://ia600501.us.archive.org/34/items/soyinka-cnn/Soyinka%20CNN.mp3",
+          "duration": 1382,
+          "caption_set": []
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "citation": "",
+      "item_type": "Audio",
+      "label": "Nobel Laureate Wole Soyinka reflects on his life’s work and the new film The Man Died (CNN African Voicemakers, 2024)",
+      "created_at": "2025-04-23T11:17:37.990Z",
+      "created_by": "TawandaMulalu",
+      "updated_at": "2025-04-23T11:17:37.990Z",
+      "updated_by": "TawandaMulalu"
+    },
+    "70bfb966-e5c6-4876-9b6e-14de96c409a7": {
+      "audiovisual_files": {
+        "113f9c54-80e0-47ba-baf8-4954c4957c0a": {
+          "label": "BBC Part 1",
+          "is_offline": false,
+          "file_url": "https://ia800206.us.archive.org/19/items/documentaries-2007-podcast-20071024-wole-soyinka-returns-to-biafra/Documentaries2007Podcast-20071024-WoleSoyinkaReturnsToBiafra.mp3",
+          "duration": 1334,
+          "caption_set": []
+        }
+      },
+      "auto_generate_web_page": true,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "citation": "",
+      "item_type": "Audio",
+      "label": "Wole Soyinka Returns to Biafra, Pt 1. (BBC Documentary Podcast, 2007)",
+      "created_at": "2025-04-23T11:05:19.652Z",
+      "created_by": "TawandaMulalu",
+      "updated_at": "2025-04-23T11:05:19.652Z",
+      "updated_by": "TawandaMulalu"
+    }
+  },
+  "pages": {
+    "74fd1ff7-194d-4c75-8e88-fe5b3684dd49": {
+      "content": [],
+      "created_at": "2025-04-23T11:17:38.233Z",
+      "created_by": "TawandaMulalu",
+      "title": "Nobel Laureate Wole Soyinka reflects on his life’s work and the new film The Man Died (CNN African Voicemakers, 2024)",
+      "slug": "nobel-laureate-wole-soyinka-reflects-on-his-l",
+      "updated_at": "2025-04-23T11:17:38.233Z",
+      "updated_by": "TawandaMulalu",
+      "parent": "b98eadc4-4ed2-42c4-94f6-643b31cdb876",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "0d3b8fbe-e5fc-4455-be26-a37452675aed"
+      }
+    },
+    "766255f4-69a8-49fb-ae1c-f6f39b58a71e": {
+      "content": [],
+      "created_at": "2025-04-23T11:06:08.686Z",
+      "created_by": "TawandaMulalu",
+      "title": "Wole Soyinka Returns to Biafra, Pt 2. (BBC Documentary Podcast, 2007)",
+      "slug": "wole-soyinka-returns-to-biafra-pt-2-bbc-do",
+      "updated_at": "2025-04-23T11:06:08.686Z",
+      "updated_by": "TawandaMulalu",
+      "parent": "b98eadc4-4ed2-42c4-94f6-643b31cdb876",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "0cac572f-64f3-4016-8121-f16554d8bddb"
+      }
+    },
+    "80905ae4-061b-459e-9c48-6406bcf011f8": {
+      "content": [],
+      "created_at": "2025-04-23T11:05:19.862Z",
+      "created_by": "TawandaMulalu",
+      "title": "Wole Soyinka Returns to Biafra, Pt 1. (BBC Documentary Podcast, 2007)",
+      "slug": "wole-soyinka-returns-to-biafra-pt-1-bbc-do",
+      "updated_at": "2025-04-23T11:05:19.862Z",
+      "updated_by": "TawandaMulalu",
+      "parent": "b98eadc4-4ed2-42c4-94f6-643b31cdb876",
+      "autogenerate": {
+        "enabled": true,
+        "type": "event",
+        "type_id": "70bfb966-e5c6-4876-9b6e-14de96c409a7"
+      }
+    },
+    "b98eadc4-4ed2-42c4-94f6-643b31cdb876": {
+      "content": [],
+      "created_at": "2025-04-02T21:53:32.794Z",
+      "created_by": "TawandaMulalu",
+      "title": " Wole Soyinka, 'The Man Died' and The Aural Performance of Memory",
+      "updated_at": "2025-04-02T21:53:32.794Z",
+      "updated_by": "TawandaMulalu",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b98eadc4-4ed2-42c4-94f6-643b31cdb876",
+    "80905ae4-061b-459e-9c48-6406bcf011f8",
+    "766255f4-69a8-49fb-ae1c-f6f39b58a71e",
+    "74fd1ff7-194d-4c75-8e88-fe5b3684dd49"
+  ]
 }
